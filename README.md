@@ -1,9 +1,10 @@
 # Learning about Linear Programming
 -----------------------------------
 Based on "Linear Programming: Foundations and Extensions" 2nd Edition by J. Vanderbei.
-Personal objectives :
+
+Personal objectives:
 	- Consolidate my basics
-	- Learn advanced technics 
+	- Learn advanced techniques 
 	- Implement my own solver of the simplex algo, which will then be called using JuMP
 
 	
